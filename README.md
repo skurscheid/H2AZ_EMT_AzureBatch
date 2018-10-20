@@ -1,2 +1,6 @@
-# H2AZ_EMT
-Bash and R scripts associated with analysis of H2A.Z ChIP-Seq data from TGFb-induced EMT in MDCK cells. Pre-release.
+# Proof of Concept - Functional Genomics in the cloud
+
+Please follow this link for full documentation:
+
+https://github.com/skurscheid/H2AZ_EMT_AzureBatch/tree/master/snakemake
+
