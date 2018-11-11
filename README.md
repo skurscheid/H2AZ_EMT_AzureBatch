@@ -2,5 +2,4 @@
 
 Please follow this link for full documentation:
 
-https://github.com/skurscheid/H2AZ_EMT_AzureBatch/tree/master/snakemake
-
+https://github.com/skurscheid/H2AZ_EMT_AzureBatch/blob/master/snakemake/README.md
